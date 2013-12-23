@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: inject
+# key: inject
+# binding: direct-keybinding
+# --
+inject(${1:0}) do |${2:injection}, ${3:element}|
+  $0
+end
