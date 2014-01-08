@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: detect
 # key: detect
-# expand-env: ((some-var some-value))
 # --
 detect |${e}| do
   $0
