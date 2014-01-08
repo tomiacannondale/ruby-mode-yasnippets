@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 # name: map
 # key: map
-# binding: direct-keybinding
 # expand-env: ((yas-indent-line 'fixed) (yas-wrap-around-region 'nil))
 # --
 map do |$1|

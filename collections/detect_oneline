@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: detect {..}
 # key: detect
-# binding: direct-keybinding
 # --
 detect { |${e}| $0 }
